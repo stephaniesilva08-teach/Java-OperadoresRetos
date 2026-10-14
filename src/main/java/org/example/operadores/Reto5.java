@@ -1,4 +1,4 @@
-package org.example;
+package org.example.operadores;
 
 import java.util.Scanner;
 

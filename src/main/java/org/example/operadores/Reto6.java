@@ -1,4 +1,4 @@
-package org.example;
+package org.example.operadores;
 public class Reto6 {
     public static void main(String[] args) {
         int cantidad = 3;
