@@ -8,6 +8,7 @@ public class Ejercicio1_1 {
         int numeroCentinela = -99;
         int acumulador = 0;
         int contador = 0;
+
         int numeroIngresado = 0;
         while(numeroCentinela != numeroIngresado){
             System.out.println("Ingrese un " );
